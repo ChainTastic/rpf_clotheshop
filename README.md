@@ -6,9 +6,9 @@ RPF STUDIO 1.0 CLOTHESHOP
 
 -----------------------------------
 
-Simple clothes shop for any NPC you whant - YOU CAN HAVE 100+ POSSIBILITES
+Simple clothes shop for any NPC you want - YOU CAN HAVE 100+ POSSIBILITES
 
-Need for work 100%
+Requirements to work 100%:
 
 https://github.com/RedEM-RP/redem_roleplay  -- for money work OK
 
