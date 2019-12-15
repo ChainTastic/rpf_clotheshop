@@ -1,4 +1,4 @@
-# rpf_clotheshop
+# REDM CLOTHE SHOP FOR REDEMRP 1.0 WIP
 
 RedM Script
 
